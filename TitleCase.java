@@ -19,7 +19,5 @@ public class TitleCase {
             st = st+ch;
         }
         System.out.println("Title case is "+st);
-
-
     }
 }
